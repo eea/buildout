@@ -1,6 +1,11 @@
 Change History
 **************
 
+2.2.1-eea (2013-08-22)
+======================
+- Unofficial release of zc.buildout 2.2.1. You should drop this version
+  when the official zc.buildout 2.2.1 is available
+
 2.2.0 (2013-07-05)
 ==================
 
